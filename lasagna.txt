@@ -1,0 +1,34 @@
+TEAM 4 - LASAGNE ALLA BOLOGNESE
+
+Controlliamo la disponibilità di tutti gli ingredienti e utensili da cucina
+
+SE sono tutti presenti 
+    ALLORA continuo la preparazione
+
+    - Dispongo tutto l'occorrente sul tavolo
+
+    - Misuro le porzioni degli ingredienti
+
+    - Preparo il ragù
+
+    - Preparo la besciamella
+
+    - Faccio cuocere la sfoglia
+
+    - Dispongo gli strati
+
+        SE la teglia NON è piena 
+
+        ALLORA Continuo a disporre gli strati
+
+        ALTRIMENTI Dispongo strato finale
+
+    - Faccio cuocere in forno
+
+    - Taglio le porzioni
+
+    - Impiatto 
+    
+
+ALTRIMENTI faccio la lista della spesa
+Vado al supermercato
